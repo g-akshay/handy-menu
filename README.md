@@ -1,2 +1,2 @@
 # Handy Menu
-PLugin for a custom Handy Contextual menu.
+Plugin for a custom Handy Contextual menu.
